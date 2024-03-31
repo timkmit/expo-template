@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "experiments": {
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
+    "icon": "./assets/icon.png",
+    "name": "tamagui-expo",
+    "scheme": "tamagui-app",
+    "slug": "tamagui-expo",
+    "splash": {
+      "backgroundColor": "#161923",
+      "image": "./assets/splash.png",
+      "resizeMode": "contain"
+    },
+    "userInterfaceStyle": "automatic"
+  }
+}
